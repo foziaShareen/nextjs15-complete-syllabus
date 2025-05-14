@@ -1,4 +1,8 @@
-
+export const metadata = {
+  template:"%s | services",
+  title: "services",
+  description: "services",
+};
 
 export default function RootLayout({ children }) {
   return (

@@ -1,3 +1,11 @@
+
+
+
+export const metadata={
+    
+    title:"webdev",
+    description:"webdev",
+}
 export default function servicesLayout({ children }) {
   return (
     <html lang="en">

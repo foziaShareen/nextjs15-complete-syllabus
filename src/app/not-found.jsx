@@ -1,12 +1,9 @@
 import React from 'react'
 
-const Blogs = () => {
+export default function NotFound() {
     return (
         <div>
-            blogs
+          404  Page Not Found  
         </div>
     )
 }
-
-export default Blogs
-

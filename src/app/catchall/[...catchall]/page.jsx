@@ -6,7 +6,7 @@ const CatchAll = async({params}) => {
   return (
     //in url suppose we have written /docs/guides/getstarted
     
-    <div>CatchAll /{catchall.join("/")}</div>
+    <div>CatchAll /{catchall.join("/catchall")}</div>
   )
 }
 
